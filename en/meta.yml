@@ -2,4 +2,7 @@ title: Attaching a Sense HAT
 hero_image: images/sensehat-attach.png
 subtitle: How to attach a Sense HAT
 description: How to attach a Sense HAT
-published: 'true'
+published: true
+steps:
+  - title: Step one
+    duration: 60
