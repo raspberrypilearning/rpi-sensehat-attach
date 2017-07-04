@@ -1,8 +1,13 @@
 title: Attaching a Sense HAT
 hero_image: images/sensehat-attach.png
-subtitle: How to attach a Sense HAT
 description: How to attach a Sense HAT
-published: false
+original_url:
+theme: cc-prototype
+duration: 1
+listed: false
+ingredient: true
+copyedit: false
+interests: ""
+technologies: "raspberry pi, sense hat"
 steps:
-  - title: Step one
-    duration: 60
+  - title: Attach a Sense HAT
