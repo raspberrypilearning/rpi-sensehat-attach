@@ -1,13 +1,12 @@
 title: Attaching a Sense HAT
 hero_image: images/sensehat-attach.png
 description: How to attach a Sense HAT
-original_url:
-theme: cc-prototype
+theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1
 listed: false
 ingredient: true
-copyedit: false
+copyedit: true
 interests: ""
-technologies: "raspberry pi, sense hat"
+technologies: "raspberry pi, sense-hat"
 steps:
   - title: Attach a Sense HAT
