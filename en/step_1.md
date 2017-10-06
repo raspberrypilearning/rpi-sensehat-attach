@@ -10,7 +10,7 @@ Before attaching any HAT to your Raspberry Pi, ensure that the Pi is shut down.
 
 ![Attach the Sense HAT](images/animated_sense_hat.gif)
 
-**NOTE:** Using a metal stand-off next to the Raspberry Pi 3's wireless antenna will degrade its performance and range. Either leave out this stand-off or use nylon stand-offs and nylon screws instead.
+**NOTE:** Using a metal stand-off next to the Raspberry Pi 3's wireless antenna will degrade its performance and range. Either leave out this stand-off, or use nylon stand-offs and nylon screws instead.
 
 ![Raspberry Pi 3 wifi antenna](images/pi3_wifi.png)
 
