@@ -3,6 +3,7 @@ hero_image: images/sensehat-attach.png
 description: How to attach a Sense HAT
 theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1
+curriculum:
 listed: false
 ingredient: true
 copyedit: true
