@@ -1,0 +1,14 @@
+---
+title: Een Sense HAT bevestigen
+hero_image: images/sensehat-attach.png
+description: Hoe een Sense HAT te bevestigen
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 1
+curriculum:
+listed: false
+ingredient: true
+copyedit: true
+interests: ""
+technologies: "raspberry pi, sense-hat"
+steps:
+  - title: Bevestig een sense HAT
