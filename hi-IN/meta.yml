@@ -1,0 +1,14 @@
+---
+title: Sense HAT लगाना
+hero_image: images/sensehat-attach.png
+description: Sense HAT कैसे लगाएं
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 1
+curriculum:
+listed: false
+ingredient: true
+copyedit: true
+interests: ""
+technologies: "raspberry pi, sense-hat"
+steps:
+  - title: Sense HAT लगाएं
