@@ -1,18 +1,18 @@
-Before attaching any HAT to your Raspberry Pi, ensure that the Pi is shut down.
+Raspberry PiにHATを取り付ける前に、Piがシャットダウンされていることを確認してください。
 
-+ Remove the Sense HAT and parts from their packaging.
++ Sense HATと部品をパッケージから取り出します。
 
 ![Sense HAT parts](images/sensehat-parts.png)
 
-+ Use two of the provided screws to attach the spacers to your Raspberry Pi, as shown below.
++ 付属のネジを2本使用して、以下に示すようにRaspberry Piにスペーサーを取り付けます。
 
-**Note:** the above step is optional — you do not have to attach the standoffs to the Sense HAT for it to work.
+**注意:**上記のステップは任意です。Sense HATを動作させるためにスタンドオフを付ける必要はありません。
 
-+ Then push the Sense HAT carefully onto the pins of your Raspberry Pi, and secure it with the remaining screws.
++ 次に、Sense HATをRaspberry Piのピンに慎重に押し込み、残りのネジで固定します。
 
 ![Attach the Sense HAT](images/animated_sense_hat.gif)
 
-**Note:** using a metal stand-off next to the Raspberry Pi 3's wireless antenna will degrade its performance and range. Either leave out this stand-off, or use nylon stand-offs and nylon screws instead.
+**注意:**Raspberry Pi 3の無線アンテナ近くで金属製のスタンドオフを使用すると、アンテナの性能と到達範囲が低下します。 Either leave out this stand-off, or use nylon stand-offs and nylon screws instead.
 
 ![Raspberry Pi 3 wifi antenna](images/pi3-wifi.png)
 
