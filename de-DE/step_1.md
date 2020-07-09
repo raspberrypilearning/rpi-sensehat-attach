@@ -1,19 +1,19 @@
-Before attaching any HAT to your Raspberry Pi, ensure that the Pi is shut down.
+Bevor du einen HAT an deinem Raspberry Pi befestigst, stelle sicher, dass der Pi ausgeschaltet ist.
 
-+ Remove the Sense HAT and parts from their packaging.
++ Entferne den Sense HAT und alle Teile aus ihrer Verpackung.
 
-![Sense HAT parts](images/sensehat-parts.png)
+![Sense HAT Teile](images/sensehat-parts.png)
 
-+ Use two of the provided screws to attach the spacers to your Raspberry Pi, as shown below.
++ Verwende zwei der mitgelieferten Schrauben, um die Abstandshalter an deinem Raspberry Pi zu befestigen, wie unten gezeigt.
 
-**Note:** the above step is optional — you do not have to attach the standoffs to the Sense HAT for it to work.
+**Hinweis:** Der obige Schritt ist optional - du musst die Abstandshalter nicht am Sense HAT anbringen, damit er funktioniert.
 
-+ Then push the Sense HAT carefully onto the pins of your Raspberry Pi, and secure it with the remaining screws.
++ Schiebe dann den Sense HAT vorsichtig auf die Pins deines Raspberry Pi und sichere ihn mit den restlichen Schrauben.
 
-![Attach the Sense HAT](images/animated_sense_hat.gif)
+![Befestige den Sense HAT](images/animated_sense_hat.gif)
 
-**Note:** using a metal stand-off next to the Raspberry Pi 3's wireless antenna will degrade its performance and range. Either leave out this stand-off, or use nylon stand-offs and nylon screws instead.
+**Hinweis:** Die Verwendung eines Metallabstandshalters neben der Funkantenne des Raspberry Pi 3 beeinträchtigt dessen Leistung und Reichweite. Lass entweder ein wenig Abstand oder benutze stattdessen Abstandshalter und Schrauben aus Nylon.
 
-![Raspberry Pi 3 wifi antenna](images/pi3-wifi.png)
+![Raspberry Pi 3 Wifi-Antenne](images/pi3-wifi.png)
 
-**Pro tip:** be careful when taking off the Sense HAT, as the 40-pin black header tends to get stuck.
+**Profi-Tipp:** Sei vorsichtig, wenn du den Sense HAT abnimmst, da der 40-polige schwarze Header leicht hängen bleibt.
