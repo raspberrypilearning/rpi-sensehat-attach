@@ -1,19 +1,19 @@
-Before attaching any HAT to your Raspberry Pi, ensure that the Pi is shut down.
+Antes de conectar qualquer HAT ao seu Raspberry Pi, verifique se o Pi está desligado.
 
-+ Remove the Sense HAT and parts from their packaging.
++ Remova o Sense HAT e as partes de suas embalagens.
 
-![Sense HAT parts](images/sensehat-parts.png)
+![Partes do Sense HAT](images/sensehat-parts.png)
 
-+ Use two of the provided screws to attach the spacers to your Raspberry Pi, as shown below.
++ Use dois dos parafusos fornecidos para conectar os espaçadores ao seu Raspberry Pi, como mostrado abaixo.
 
-**Note:** the above step is optional — you do not have to attach the standoffs to the Sense HAT for it to work.
+**Nota:** a etapa acima é opcional — você não precisa anexar os espaçadores ao Sense HAT para que ele funcione.
 
-+ Then push the Sense HAT carefully onto the pins of your Raspberry Pi, and secure it with the remaining screws.
++ Então empurre o Sense HAT cuidadosamente nos pinos do seu Raspberry Pi e prenda-o com os parafusos restantes.
 
-![Attach the Sense HAT](images/animated_sense_hat.gif)
+![Conecte o Sense HAT](images/animated_sense_hat.gif)
 
-**Note:** using a metal stand-off next to the Raspberry Pi 3's wireless antenna will degrade its performance and range. Either leave out this stand-off, or use nylon stand-offs and nylon screws instead.
+**Nota:** o uso de um suporte metálico ao lado da antena de wireless do Raspberry Pi 3 prejudicará seu desempenho e alcance. Deixe estes espaçadores de lado ou use espaçadores e parafusos de nylon em vez disso.
 
-![Raspberry Pi 3 wifi antenna](images/pi3-wifi.png)
+![Antena wifi Raspberry Pi 3](images/pi3-wifi.png)
 
-**Pro tip:** be careful when taking off the Sense HAT, as the 40-pin black header tends to get stuck.
+**Dica profissional:** tenha cuidado ao tirar o Sense HAT, pois o conector de 40 pinos preto tende a ficar preso.
