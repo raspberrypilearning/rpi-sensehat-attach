@@ -12,7 +12,7 @@ Avant d'attacher un HAT à ton Raspberry Pi, assures-toi que le Pi est éteint.
 
 ![Attacher le Sense HAT](images/animated_sense_hat.gif)
 
-** Remarque: ** l'utilisation d'une entretoise métallique à côté de l'antenne sans fil du Raspberry Pi 3 dégradera ses performances et sa portée. Soit laisse de côté cette entretoise, soit utilise des entretoises en nylon et des vis en nylon à la place.
+**Remarque:** l'utilisation d'une entretoise métallique à côté de l'antenne sans fil du Raspberry Pi 3 dégradera ses performances et sa portée. Soit laisse de côté cette entretoise, soit utilise des entretoises en nylon et des vis en nylon à la place.
 
 ![Antenne wifi Raspberry Pi 3](images/pi3-wifi.png)
 
