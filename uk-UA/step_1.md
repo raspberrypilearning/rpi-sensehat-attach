@@ -1,19 +1,19 @@
-Before attaching any HAT to your Raspberry Pi, ensure that the Pi is shut down.
+Перш ніж під'єднати будь-який HAT до Raspberry Pi, переконайся, що Pi вимкнено.
 
-+ Remove the Sense HAT and parts from their packaging.
++ Вийми Sense Hat та деталі з упаковки.
 
-![Sense HAT parts](images/sensehat-parts.png)
+![Деталі Sense HAT](images/sensehat-parts.png)
 
-+ Use two of the provided screws to attach the spacers to your Raspberry Pi, as shown below.
++ Скористайся двома наданими гвинтами, щоб прикріпити розпірки до Raspberry Pi, як показано нижче.
 
-**Note:** the above step is optional — you do not have to attach the standoffs to the Sense HAT for it to work.
+**Примітка:** вищезазначений крок не є обов'язковим — тобі не потрібно прикріплювати розпірки до Sense HAT для того, щоб він працював.
 
-+ Then push the Sense HAT carefully onto the pins of your Raspberry Pi, and secure it with the remaining screws.
++ Потім обережно одягни Sense HAT на піни Raspberry Pi та закріпи його за допомогою решти гвинтів.
 
-![Attach the Sense HAT](images/animated_sense_hat.gif)
+![Під'єднай Sense HAT](images/animated_sense_hat.gif)
 
-**Note:** using a metal stand-off next to the Raspberry Pi 3's wireless antenna will degrade its performance and range. Either leave out this stand-off, or use nylon stand-offs and nylon screws instead.
+**Примітка:** використання металевих розпірок поруч із бездротовою антеною Raspberry Pi 3 погіршить її продуктивність та дальність дії. Або не використовуй ці розпірки, або використовуй нейлонові розпірки та гвинти натомість.
 
-![Raspberry Pi 3 wifi antenna](images/pi3-wifi.png)
+![Антена wifi Raspberry Pi 3](images/pi3-wifi.png)
 
-**Pro tip:** be careful when taking off the Sense HAT, as the 40-pin black header tends to get stuck.
+**Підказка професіонала:** дуже обережно від'єднуй Sense Hat, оскільки 40-контактна чорна головка, як правило, застрягає.
