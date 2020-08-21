@@ -1,0 +1,14 @@
+---
+title: Sense Hat 부착하기
+hero_image: images/sensehat-attach.png
+description: Sense Hat 부착 방법
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 1
+curriculum:
+listed: false
+ingredient: true
+copyedit: true
+interests: ""
+technologies: "raspberry pi, sense-hat"
+steps:
+  - title: Sense Hat 부착하기
