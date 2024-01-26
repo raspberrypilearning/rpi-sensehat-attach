@@ -6,9 +6,9 @@ Przed dołączeniem jakiegokolwiek HAT do Raspberry Pi, upewnij się, że Pi jes
 
 + Użyj dostarczonych śrub, aby przymocować dystanse do Raspberry Pi, jak pokazano poniżej.
 
-**Uwaga:** powyższy krok jest opcjonalny - nie musisz dołączać dystansów, aby SENS HAT poprawnie funkcjonował.
+**Uwaga:** powyższy krok jest opcjonalny - nie musisz dołączać dystansów, aby Sense HAT poprawnie funkcjonował.
 
-+ Następnie ostrożnie wciśnij SENSE HAT na piny Raspberry Pi i zabezpiecz pozostałymi śrubami.
++ Następnie ostrożnie wciśnij Sense HAT na piny Raspberry Pi i zabezpiecz pozostałymi śrubami.
 
 ![Podłączanie Sense HAT](images/animated_sense_hat.gif)
 
